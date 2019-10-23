@@ -3,7 +3,7 @@
 A small library to control suitable webcams. ** Not to take photos ** but rather to programmatically change settings to do with the camera hardware.
 
 For example, initially built to move a camera like this: 
-![Logitech QuickCam Orbit AF](https://www.amazon.com/Logitech-960-000111-QuickCam-Orbit-AF/dp/B000UY1OMY)
+![Logitech QuickCam Orbit AF](https://images-na.ssl-images-amazon.com/images/I/51tKgg3fQoL._AC_SL1000_.jpg)
 
 ## Installation
 
